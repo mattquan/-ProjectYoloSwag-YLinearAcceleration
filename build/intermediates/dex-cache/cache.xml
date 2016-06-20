@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Matt\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.4_03cfcead63075bbdde78ae49cecae54be90f7bea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_d0c3bd1263cf3dfc518460133d80bb0c9dc02289\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="558814a06d03c9ebb3590cff084e439fd7bffcab">
+        <dex dex="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b4e157c582e0c2fbc4cc82038f83e9f1a125f269\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\.gradle\caches\modules-2\files-2.1\commons-collections\commons-collections\3.2.1\761ea405b9b37ced573d2df0d1e3a4e0f9edc668\commons-collections-3.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="761ea405b9b37ced573d2df0d1e3a4e0f9edc668">
+        <dex dex="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-collections-3.2.1_e29af189bff520a0a29f08fc60b755e92f502e6c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\.gradle\caches\modules-2\files-2.1\com.opencsv\opencsv\3.8\248d4d05fe253a02a05601978f7de1305b8a961e\opencsv-3.8.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="248d4d05fe253a02a05601978f7de1305b8a961e">
+        <dex dex="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\opencsv-3.8_b79a9706af45e0b3a380cba8bec4e4f4483397bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_18ad72c5592f4f444cbd486e68dc0b59accde9ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cbaa76a0782253b382b943844557fe903b6c5a94">
+        <dex dex="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7c3b0a23a4f7dd2e82443aa21f88982042442627\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_7378c32c58d4afe3cb04f5731c855b9e3c3a0069\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_84a6ff616d9bfb53cbd6013416213f1f1b5684a1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\.gradle\caches\modules-2\files-2.1\commons-beanutils\commons-beanutils\1.9.2\7a87d845ad3a155297e8f67d9008f4c1e5656b71\commons-beanutils-1.9.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7a87d845ad3a155297e8f67d9008f4c1e5656b71">
+        <dex dex="C:\Users\Matt\Desktop\AStudio\AccelerometerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-beanutils-1.9.2_1c937c5d3a2d769636ce2aae096ef367cdb5cd45\classes.dex" />
+    </item>
+
+</items>
